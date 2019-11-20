@@ -48,7 +48,7 @@ function App() {
 
           Currently Fringe festivals just have a submission start and end date.
           If you're familiar with Fringe festivals and would like to submit the individual sub festival deadlines please do so.
-          If the data structure needs to be changed to accomodate this please get in touch and I'll do so.
+          If the data structure needs to be changed to accommodate this please get in touch and I'll do so.
         </p>
       <h2>Contact</h2>
         <p><a target="_blank" rel="noopener noreferrer" href="mailto:comedyfestivals@gmail.com">E-mail me</a>.</p>
