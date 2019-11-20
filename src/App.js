@@ -27,11 +27,11 @@ function App() {
 
       <h2>How can I add my festival?</h2>
         <p>
-          <a href={SUBMISSION_URL}>Fill this out </a>
+          <a href={SUBMISSION_URL} target="_blank" rel="noopener noreferrer">Fill this out </a>
         </p>
       <h2>The info you have for a festival is wrong, how can I change it?</h2>
         <p>
-          Get the festival ID and <a href={SUBMISSION_URL}>Fill this out</a>
+          Get the festival ID and <a href={SUBMISSION_URL} target="_blank" rel="noopener noreferrer">Fill this out</a>
         </p>
       <h2>Contact</h2>
         <p><a target="_blank" rel="noopener noreferrer" href="mailto:comedyfestivals@gmail.com">E-mail me</a></p>
