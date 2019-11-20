@@ -37,6 +37,19 @@ function App() {
         <p>
           Get the festival ID and <a href={SUBMISSION_URL} target="_blank" rel="noopener noreferrer">Fill this out.</a>
         </p>
+      <h2>A note about fringe festivals</h2>
+        <p>
+          Please be aware that the dates for Fringe festivals are the first dates that submissions are open.
+          However, many fringe festivals require you to go out and book your own venue, and these venues will have their own submission dates/process.
+          Additionally some Fringes, like the Edinburgh Fringe for example are comprised of a bunch of smaller festivals.
+
+          In Edinburgh for example you have Laughing Horse, PBH, Heroes, Monkey Barrel and then the paid venues.
+          Each of these has their own application process and their own deadlines.
+
+          Currently Fringe festivals just have a submission start and end date.
+          If you're familiar with Fringe festivals and would like to submit the individual sub festival deadlines please do so.
+          If the data structure needs to be changed to accomodate this please get in touch and I'll do so.
+        </p>
       <h2>Contact</h2>
         <p><a target="_blank" rel="noopener noreferrer" href="mailto:comedyfestivals@gmail.com">E-mail me</a>.</p>
       <h2>Sign up for the newsletter</h2>
