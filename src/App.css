@@ -35,8 +35,11 @@ body, html {
 }
 
 .mailchimp-container div input {
-  margin: 0 1em;
+  margin: 0 1em 0.5em;
   color: black;
+}
+.mailchimp-container div button {
+  width: 100%;
 }
 
 h2 {
