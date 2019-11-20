@@ -31,10 +31,12 @@ body, html {
 .mailchimp-container div {
   display: flex;
   align-items: center;
+  flex-direction: column;
 }
 
 .mailchimp-container div input {
   margin: 0 1em;
+  color: black;
 }
 
 h2 {
