@@ -22,7 +22,7 @@ function App() {
           Just kidding, every website is a gift from God (who is Muslim btw).
 
           I did my best to find the dates on websites, however it's likely there are errors.
-          If you would like to submit a change you can do so <a href={SUBMISSION_URL}>HERE</a>
+          If you would like to submit a change you can do so <a href={SUBMISSION_URL} target="_blank" rel="noopener noreferrer">HERE</a>
         </p>
 
       <h2>How can I add my festival?</h2>
